@@ -1,6 +1,7 @@
 # gitSearchTest
 
 In this repo we have assignment tests written using cypress and integrated with cucumber
+Cypress supports all the modern day browsers like chrome , firefox, safari and it supports all the OS
 
 Setup I have followed: checkout repo: git clone https://github.com/sarthak2990/gitSearchTest
 
