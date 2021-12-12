@@ -1,0 +1,55 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "We will verify the tests suggested for assignment",
+    "line": 1,
+    "id": "we-will-verify-the-tests-suggested-for-assignment",
+    "tags": [],
+    "uri": "GitTest.feature",
+    "elements": [
+      {
+        "id": "we-will-verify-the-tests-suggested-for-assignment;open-git-home-page-and-verify-search-functionality",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Open git home page and verify search functionality",
+        "tags": [
+          {
+            "name": "@home",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Open git home page",
+            "result": {
+              "status": "undefined",
+              "duration": 81000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Verify user on git home page",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "User search repo by 'selenium'",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

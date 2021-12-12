@@ -1,0 +1,57 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "We will verify the tests suggested for assignment",
+    "line": 1,
+    "id": "we-will-verify-the-tests-suggested-for-assignment",
+    "tags": [],
+    "uri": "HomeTest.feature",
+    "elements": [
+      {
+        "id": "we-will-verify-the-tests-suggested-for-assignment;open-iprice-home-page-and-verify-and-count-best-deals",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Open iprice home page and verify and count Best deals",
+        "tags": [
+          {
+            "name": "@home",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Open iprice home page",
+            "result": {
+              "status": "passed",
+              "duration": 3241000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Verify the find the best deals",
+            "result": {
+              "status": "passed",
+              "duration": 38000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I grab and count all the links",
+            "result": {
+              "status": "passed",
+              "duration": 246000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
